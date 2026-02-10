@@ -1,6 +1,38 @@
-Contact Manager - Full-Stack CRUD ApplicationA robust, responsive contact management system built using the MERN stack (MongoDB, Express.js, Node.js) and EJS for dynamic templating. This project was developed as a Web Development Minor Project to demonstrate the full lifecycle of data in a modern web application.🚀 Live Demo[Insert your Render/Live Link Here]🛠️ Technical StackBackend: Node.js, Express.jsDatabase: MongoDB Atlas (Cloud) with Mongoose ODMFrontend: EJS (Embedded JavaScript), CSS3 (Responsive Design), JavaScript (Vanilla)Environment Management: DotenvShutterstock✨ FeaturesComplete CRUD Operations: Users can Create, Read, Update, and Delete contacts in real-time.Cloud Database Integration: Data is stored securely in MongoDB Atlas, ensuring persistence across sessions.Dynamic UI: Used EJS to inject server-side data directly into the frontend templates.Responsive Layout: Fully adaptive design using Media Queries, optimized for desktop, tablets, and mobile devices.Secure Configuration: Sensitive credentials like database passwords are protected using environment variables (.env).Interactive Editing: Engineered a custom "Fill-to-Edit" logic using the JavaScript Fetch API for a seamless user experience.📸 ScreenshotsDesktop ViewMobile View⚙️ Installation & Local SetupClone the repository:Bashgit clone https://github.com/greeshmanth23-debug/contact-manager.git
-cd contact-manager
-Install dependencies:Bashnpm install
-Environment Setup:Create a .env file in the root directory and add your MongoDB connection string:Code snippetMONGO_URI=your_mongodb_atlas_connection_string
-Run the application:Bashnpm start
-The server will start at http://localhost:3000.👨‍💻 AuthorR. GreeshmanthUniversity: Aditya UniversityRoll Number: 24B11CS523Course: B.Tech CSE
+# 📱 Contact Manager - Full-Stack CRUD Application
+
+A modern, responsive web application built to manage personal contacts efficiently. This project demonstrates the complete **CRUD** (Create, Read, Update, Delete) lifecycle and full-stack integration using the MERN stack.
+
+## 🎓 Academic Context
+* **Institution:** Aditya University
+* **Student Name:** R. Greeshmanth
+* **Roll Number:** 24B11CS523
+* **Course:** B.Tech CSE
+* **Project Type:** Web Development Minor Project
+
+---
+
+## 🚀 Technical Tech Stack
+* **Runtime Environment:** Node.js
+* **Backend Framework:** Express.js
+* **Database:** MongoDB Atlas (Cloud) using Mongoose ODM
+* **View Engine:** EJS (Embedded JavaScript)
+* **Styling:** CSS3 with Mobile-First Responsive Design
+* **Security:** Dotenv for environment variable management
+
+---
+
+## ✨ Key Features
+* **Cloud Persistence:** Fully integrated with **MongoDB Atlas** for secure, persistent data storage.
+* **Dynamic Rendering:** Used **EJS** to server-side render contact lists dynamically from the database.
+* **Smart Editing:** Custom JavaScript logic that populates form fields for editing, improving user workflow.
+* **Responsive UI:** Optimized for all screen sizes (Mobile, Tablet, Desktop) using advanced CSS Media Queries.
+* **Security First:** Protects database credentials using `.env` files to prevent sensitive data leaks on GitHub.
+
+---
+
+## 🛠️ Installation & Setup
+
+1. **Clone the Repo**
+   ```bash
+   git clone [https://github.com/greeshmanth23-debug/contact-manager.git](https://github.com/greeshmanth23-debug/contact-manager.git)
+   cd contact-manager
