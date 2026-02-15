@@ -30,9 +30,8 @@ A modern, responsive web application built to manage personal contacts efficient
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️ Deployed using render
 
-1. **Clone the Repo**
+1. **The deployed version**
    ```bash
-   git clone [https://github.com/greeshmanth23-debug/contact-manager.git](https://github.com/greeshmanth23-debug/contact-manager.git)
-   cd contact-manager
+   [https://contact-manager-owdj.onrender.com]
