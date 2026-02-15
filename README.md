@@ -34,4 +34,4 @@ A modern, responsive web application built to manage personal contacts efficient
 
 1. **The deployed version**
    ```bash
-   [https://contact-manager-owdj.onrender.com]
+   https://contact-manager-owdj.onrender.com
